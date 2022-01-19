@@ -30,6 +30,7 @@ const SuggestElem: FC<SuggestElemProps> = props => {
         <Markup.Elem
             isSelected={selectedItem === item}
             onClick={onClick}
+            // we need to strip html tags here
             dangerouslySetInnerHTML={{__html: currentValue ?
                 item.replace(currentValue, `<b>${currentValue}</b>`) :
                 item
