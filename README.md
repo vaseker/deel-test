@@ -1,3 +1,22 @@
+# Autocomplete component
+
+Really it is Suggest component, not Automplete, because I have lack of knowledge about difference between them.
+
+Implemented features:
+* User able to pass markup for elements of Suggest
+* Showing list of suggested items
+* Ability to navigate between suggestions using arrow keys
+* Ability to select suggest item by click
+* Ability to request suggest list for current input value (debounced)
+* Ability to notify external code with finally chosen element
+
+Unimplemented features:
+* a11y
+* Ability to close suggest list by clicking outside it
+* Ability to paginate large lists of suggestions
+* Ability to validate input value before sending it to external code
+* Ability to choose multiple suggested values
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
