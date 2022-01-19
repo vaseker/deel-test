@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.88e29aaa.css",
-    "main.js": "/static/js/main.1d98f70c.js",
-    "static/js/787.df457a67.chunk.js": "/static/js/787.df457a67.chunk.js",
-    "index.html": "/index.html",
-    "main.88e29aaa.css.map": "/static/css/main.88e29aaa.css.map",
-    "main.1d98f70c.js.map": "/static/js/main.1d98f70c.js.map",
-    "787.df457a67.chunk.js.map": "/static/js/787.df457a67.chunk.js.map"
+    "main.css": "/deel-test/static/css/main.88e29aaa.css",
+    "main.js": "/deel-test/static/js/main.efc9a710.js",
+    "static/js/787.df457a67.chunk.js": "/deel-test/static/js/787.df457a67.chunk.js",
+    "index.html": "/deel-test/index.html",
+    "main.88e29aaa.css.map": "/deel-test/static/css/main.88e29aaa.css.map",
+    "main.efc9a710.js.map": "/deel-test/static/js/main.efc9a710.js.map",
+    "787.df457a67.chunk.js.map": "/deel-test/static/js/787.df457a67.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88e29aaa.css",
-    "static/js/main.1d98f70c.js"
+    "static/js/main.efc9a710.js"
   ]
 }
